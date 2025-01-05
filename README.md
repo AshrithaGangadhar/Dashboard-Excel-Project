@@ -48,4 +48,4 @@ The dataset includes:
 - Satisfaction metrics: **Job satisfaction**, **work-life balance**, **attrition**.
 
 ## Feedback and Discussion
-I’d love to hear your thoughts and suggestions! Let’s discuss ways to enhance the dashboard or explore deeper HR analytics insights. Feel free to comment or open issues in this repository. 😊
+I’d love to hear your thoughts and suggestions! Let’s discuss ways to enhance the dashboard or explore deeper HR analytics insights. Feel free to comment or open issues in this repository.
