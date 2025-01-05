@@ -1,10 +1,9 @@
 # IBM HR Analytics Dashboard Using Excel 
-
+![image](DashboardPreview.png)
 ## Project Overview
 - This project showcases an **interactive HR analytics dashboard** created using Microsoft Excel. 
 - The dashboard provides insights into key workforce metrics, including employee demographics, job satisfaction, work-life balance, and turnover rates. 
 - Designed to support HR professionals and decision-makers, this dashboard enables data-driven strategies to improve organizational efficiency.
-
 
 
 ## Key Highlights
